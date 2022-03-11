@@ -1,0 +1,17 @@
+Time sheet code : 37743787
+
+https://gteeurope.ey.net/
+
+Terraform
+
+Publish by Hashicorp
+Deploy can be be done using code in multicloud
+
+init
+plan
+deploy
+destroy
+
+service principle
+
+https://github.com/sree2434/Sree.git
